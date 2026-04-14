@@ -18,4 +18,4 @@ This project is a responsive landing page created using HTML, CSS, and JavaScrip
 - JavaScript
 
 ### Author:
-Trjaswini AV
+Tejaswini AV
